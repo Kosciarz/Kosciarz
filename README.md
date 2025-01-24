@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kosciarz
-- 👀 I’m interested in Football and Programming. I also like playing on my trumpet and listening to music.
-- 🌱 I’m currently learning: C++, Java
+- 👀 I’m interested in Football and Programming. I like to imerse myself in coding for a few hours at a time and not worry about anything another than me.
+- 🌱 I’m currently learning: C++, C
 - 📫 How to reach me: bartoszbachul1@gmail.com
 
 <!---
