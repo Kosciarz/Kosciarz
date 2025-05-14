@@ -1,8 +1,21 @@
-- 👋 Hi, I’m @Kosciarz
-- 👀 Sometimes I immerse myself in coding for many hours and time flies by in an instant. 
-- 🌱 I’m currently learning: C++
+# Hi there 👋, I'm Kosciarz!
 
-<!---
-Kosciarz/Kosciarz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile! 🎉
+
+## 🚀 About Me
+- 🌱 I’m currently learning and exploring new technologies.
+- 💡 I enjoy solving challenging problems and building innovative solutions.
+- 🤝 I’m open to collaborating on interesting projects or discussing new ideas.
+
+## 🛠️ Technologies & Tools
+- 💻 Programming Languages: C++, Java, Python
+- 🔧 Tools & Platforms: Visual Studio, Windows, Linux, OpenGL
+- 🖌️ Interests: Graphics programming, Systems design, Low level programming
+
+## 📈 GitHub Stats
+![Kosciarz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kosciarz&show_icons=true&theme=radical)
+
+## 🌐 Connect with Me
+- Email: bartoszbachul1@gmail.com
+
+🧰 Thanks for stopping by! Feel free to explore my repositories and reach out if you'd like to collaborate.
