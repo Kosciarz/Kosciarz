@@ -1,1 +1,1 @@
-# Hi there 👋, I'm Kai!
+# Hi there 👋!
